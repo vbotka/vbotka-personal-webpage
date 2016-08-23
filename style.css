@@ -1,0 +1,42 @@
+body {
+    background-color: #002b36;
+    color: #839496;
+}
+
+a {
+    color: #859900;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #cb4b16;
+    text-decoration: none;
+}
+
+ul {
+    color: #e2e2e0;
+}
+
+li {
+    color: #b7b2ac;
+}
+
+hr { border: 1px solid;}
+
+tr {
+    color: #7b8978;
+}
+
+tr a{
+    color: #839496;
+}
+
+tr a:hover {
+    color: #b58900;
+}
+
+.orange { color: #cb4b16;}
+.green { color: #859900;}
+.yellow { color: #b58900;}
+.red { color: #dc322f;}
+.blue { color: #268bd2;}
