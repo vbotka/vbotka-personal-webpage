@@ -1,15 +1,27 @@
+.orange { color: #cb4b16;}
+.green { color: #859900;}
+.yellow { color: #b58900;}
+.red { color: #dc322f;}
+.blue { color: #268bd2;}
+.grey { color: #839496;}
+
 body {
     background-color: #002b36;
     color: #839496;
+    font-family: "Arial", Helvetica, sans-serif;
+}
+
+table {
+    border: 0px solid black;
 }
 
 a {
-    color: #859900;
+    color: #839496;
     text-decoration: none;
 }
 
 a:hover {
-    color: #cb4b16;
+    color: #b58900;
     text-decoration: none;
 }
 
@@ -27,16 +39,6 @@ tr {
     color: #7b8978;
 }
 
-tr a{
-    color: #839496;
+td {
+    vertical-align:top;
 }
-
-tr a:hover {
-    color: #b58900;
-}
-
-.orange { color: #cb4b16;}
-.green { color: #859900;}
-.yellow { color: #b58900;}
-.red { color: #dc322f;}
-.blue { color: #268bd2;}
