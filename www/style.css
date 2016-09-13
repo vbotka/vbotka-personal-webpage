@@ -62,6 +62,17 @@ td {
     align:left;
 }
 
+.fnlabel {
+    text-align:left;
+    color: #5d5c57;
+    text-decoration: none;
+}
+
+.fnlink{
+    color: #5d5c57;
+    text-decoration: none;
+}
+
 .orange { color: #cb4b16;}
 .green { color: #859900;}
 .yellow { color: #b58900;}
