@@ -1,10 +1,3 @@
-.orange { color: #cb4b16;}
-.green { color: #859900;}
-.yellow { color: #b58900;}
-.red { color: #dc322f;}
-.blue { color: #268bd2;}
-.grey { color: #839496;}
-
 body {
     background-color: #002b36;
     color: #839496;
@@ -47,3 +40,31 @@ tr {
 td {
     vertical-align:top;
 }
+
+.vclabel {
+    text-align:left;
+    color: #586e75;
+    text-decoration: none;
+}
+
+.vcnote {
+    text-align:right;
+    color: #586e75;
+    text-decoration: none;
+}
+
+.vclink{
+    color: #586e75;
+    text-decoration: none;
+}
+
+.footnote{
+    align:left;
+}
+
+.orange { color: #cb4b16;}
+.green { color: #859900;}
+.yellow { color: #b58900;}
+.red { color: #dc322f;}
+.blue { color: #268bd2;}
+.grey { color: #839496;}
