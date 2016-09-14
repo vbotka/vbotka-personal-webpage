@@ -41,6 +41,13 @@ td {
     vertical-align:top;
 }
 
+.image {
+    width: auto;
+    height: auto;
+    max-width: 150px;
+    max-height: 150px
+}
+
 .vclabel {
     text-align:left;
     color: #586e75;
