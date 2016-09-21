@@ -80,9 +80,31 @@ td {
     text-decoration: none;
 }
 
-.orange { color: #cb4b16;}
-.green { color: #859900;}
-.yellow { color: #b58900;}
-.red { color: #dc322f;}
-.blue { color: #268bd2;}
 .grey { color: #839496;}
+
+.yellow { color: #b58900;}
+.orange { color: #cb4b16;}
+.red { color: #dc322f;}
+.magenta { color: #d33682;}
+.violet { color: #6c71c4;}
+.blue { color: #268bd2;}
+.cyan { color: #2aa198;}
+.green { color: #859900;}
+
+.darker_green { color: #002b36;}
+.dark_green { color: #073642;}
+.middle_green { color: #586e75;}
+.light_green { color: #657b83;}
+.lighter_green { color: #839496;}
+.light_gray { color: #93a1a1;}
+.lighter_gray { color: #eee8d5;}
+.white { color: #fdf6e3;}
+	
+.surfmiste { color: #2e2e0;}
+.classic_cream { color: #e7e1c1;}
+.shale_gray { color: #b7b2ac;}
+.paper_bark { color: #cec2aa;}
+.dune { color: #b7b2ac;}
+.pale_eucalypt { color: #7b8978;}
+.woodland_gray { color: #5d5c57;}
+.deep_ocean { color: #485162;}
