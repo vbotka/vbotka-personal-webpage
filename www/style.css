@@ -50,18 +50,18 @@ td {
 
 .vclabel {
     text-align:left;
-    color: #586e75;
+    color: #7b8978;
     text-decoration: none;
 }
 
 .vcnote {
     text-align:right;
-    color: #586e75;
+    color: #7b8978;
     text-decoration: none;
 }
 
 .vclink{
-    color: #586e75;
+    color: #7b8978;
     text-decoration: none;
 }
 
@@ -71,12 +71,12 @@ td {
 
 .fnlabel {
     text-align:left;
-    color: #5d5c57;
+    color: #7b8978;
     text-decoration: none;
 }
 
 .fnlink{
-    color: #5d5c57;
+    color: #7b8978;
     text-decoration: none;
 }
 
