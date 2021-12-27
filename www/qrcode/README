@@ -1,4 +1,2 @@
-cat visit-cards/misc/jpeg-vb/barcode-web-only.sh
 #!/bin/bash
-qrencode -o address.png 'MECARD:N:Botka,Vladimir;URL:https://www.botka.link;EMAIL:vladimir@botka.link;EMAIL:vbotka@gmail.com;NOTE: PGP ID: 2048R/7C931F64, Fingerprint: 0EE4 0ABB A5C0 8A2D 9ED8  9A90 ACF1 1D81 7C93 1F64;'}
---
+qrencode -o address.png 'MECARD:N:Botka,Vladimir;URL:https://www.netng.org;EMAIL:vbotka@gmail.com;NOTE: PGP ID: 2048R/8ED44F01, Fingerprint: 6DA4 E1B9 8290 81B6 E60E B564 90D1 9912 8ED4 4F01;'
